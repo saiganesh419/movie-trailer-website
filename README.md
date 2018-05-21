@@ -12,11 +12,11 @@ Backend : python cgi model
 
 ## Requirements
 
-* Python3
+* Python 3
 
 * Web browser
 
-* Python packages:cgi model
+* Python packages: cgi model
 
 ## Local development
 
