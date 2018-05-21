@@ -2,7 +2,7 @@
 
 ## Description
 
-My project movie trailer is about containing my set of favourite movies and on clicking the images of the movie poster it's youtube trailer is played on the same tab by hovering the background.
+This movie trailer web site consist of movie tiles of some movies when you click on the movie tiles its youtube trailer is opened in same window.
 
 ## Stack used
 
@@ -14,18 +14,14 @@ Backend : python cgi model
 
 * Python3
 
-* Modern browser
+* Web browser
 
 * Python packages:cgi model
 
 ## Local development
 
-1. Clone this Repository.
+1. Run the entertainment_center.py
 
-2. Change the directory.
+2. A html file is created on running the file.
 
-3. Run the entertainment_center.py file on python 2.7 idle.
-
-4. A html file is created on running the file.
-
-5. You can also run the html file on your favourite browser.
+3. When you click on movie poster its youtube trailer will open.
