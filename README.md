@@ -22,6 +22,6 @@ Backend : python cgi model
 
 1. Run the entertainment_center.py
 
-2. A html file is created on running the file.
+2. The browser will open with  fresh tomatoes movie trailer page.
 
 3. When you click on movie poster its youtube trailer will open.
