@@ -25,3 +25,5 @@ Backend : python cgi model
 2. The browser will open with  fresh tomatoes movie trailer page.
 
 3. When you click on movie poster its youtube trailer will open.
+
+4. Ensure that all these three files in same location.
