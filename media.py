@@ -16,4 +16,6 @@ class Movie():
 
 # defining for to show youtube tariler
         def show_trailer(self):
-                webbrowser.open(self.trailer_youtube_url)
+            '''using a function in webbrowser module to
+            open a browser with given url'''
+            webbrowser.open(self.trailer_youtube_url)
